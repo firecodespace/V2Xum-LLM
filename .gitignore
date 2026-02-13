@@ -3,3 +3,4 @@ checkpoints/
 .ipynb_checkpoints/
 wandb/
 data/
+/core-sum-project/datasets.tar.gz
